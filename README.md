@@ -1,2 +1,2 @@
-# TPS-Qualit-
+# TPS-Qualité
 3 TPS Qualité Logiciel
